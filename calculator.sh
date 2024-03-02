@@ -12,3 +12,6 @@ print("this is my first version")
 now adding divisiona nd subtraction features
 
 updated rebase function added here
+
+Developers active updates
+
