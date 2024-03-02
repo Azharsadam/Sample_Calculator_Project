@@ -7,3 +7,6 @@ result = add_numbers(n1, n2)
 print('=', result)
 
 print("this is my first version")
+
+
+now adding divisiona nd subtraction features
